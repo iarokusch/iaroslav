@@ -4,4 +4,5 @@
 |-----|----|--------|
 | Carlo | Teacher | [@carlotrimarchi](https://github.com/carlotrimarchi)|
 | Miguel | Student | [@domikel](https://github.com/Domikel)|
+| Miguel John| Student | [@domikel](https://github.com/Domikel)|
 
