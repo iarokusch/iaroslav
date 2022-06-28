@@ -23,3 +23,4 @@
 | Ludo  | Student | [@ludovil](https://github.com/Ludovil)|
 | Mauro | Student | [@maurofilippifarmar](https://github.com/maurofilippifarmar)|
 | Bindu |DCI-sudent |rbinduc|
+| iaroslav| Student| @iarokusch| 
