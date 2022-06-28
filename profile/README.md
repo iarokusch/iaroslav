@@ -20,3 +20,5 @@ carlotrimarchi)|
 
 | Mohammed| Student | [@malshameri54](https://github.com/Mohammedalshameri/) |
 
+
+| Mauro | Student | [@maurofilippifarmar](https://github.com/maurofilippifarmar)|
