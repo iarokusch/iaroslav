@@ -12,3 +12,4 @@
 | Setare | student | [@setazarm](https://github.com/setazarm)|
 | Alexandr | Student | [@alexpavlyukovets](https://github.com/alexpavlyukovets) |
 | Ricardo | Student | [@riccaralv](https://github.com/riccaralv)|
+| Miguel | Student | [@domikel](https://github.com/domikel)|
