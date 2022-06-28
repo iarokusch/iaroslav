@@ -16,9 +16,9 @@
 | Darko | Student | [@DarkoIllieski](https://github.com/DarkoIllieski)|
 | Alexandr | Student | [@alexpavlyukovets](https://github.com/alexpavlyukovets) |
 | Ricardo | Student | [@riccaralv](https://github.com/riccaralv)|
-| Mohammed| Student | [@malshameri54](https://github.com/Mohammedalshameri/) |
+| Miguel | Student | [@domikel](https://github.com/domikel)|
+| Mohammed| Student | [@malshameri54](https://github.com/Mohammedalshameri/)|
+| Mauro | Student | [@maurofilippifarmar](https://github.com/maurofilippifarmar)|
 | Ludo  | Student | [@ludovil](https://github.com/Ludovil)|
 | Mauro | Student | [@maurofilippifarmar](https://github.com/maurofilippifarmar)|
 | Bindu |DCI-sudent |rbinduc|
-
-
