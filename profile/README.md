@@ -9,8 +9,7 @@
 | Arber | noob | [@arbertotraku](https://github.com/ArberTotraku)|
 | Delve | Student | [@delvetech1792](https://github.com/delvetech1792) |
 | Aleksandra | Student | [@alexgrubor](http://github.com/alexgrubor) |
-| Eman | Student | [@dolce-emmy] (https://github.com/dolce-emmy/.github)
-| Christiana | Student | [@christyjonah] (https://github.com/Christyjonah) |
+| Christiana | Student | [@christyjonah](https://github.com/Christyjonah) |
 | Marvin | Student | [@megravity](https://github.com/megravity)|
 | Ismail | Student | [@IsmailOuaiahou](https://github.com/IsmailOuaiahou)
 | Blagojche | Student | [@blagojce123](https://github.com/blagojce123)|
@@ -24,4 +23,4 @@
 | Ludo  | Student | [@ludovil](https://github.com/Ludovil)|
 | Mauro | Student | [@maurofilippifarmar](https://github.com/maurofilippifarmar)|
 | Bindu |DCI-sudent |rbinduc|
-
+| Eman | Student | [@dolce-emmy] (https://github.com/dolce-emmy/) 
