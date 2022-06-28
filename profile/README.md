@@ -10,7 +10,7 @@
 | Delve | Student | [@delvetech1792](https://github.com/delvetech1792) |
 | Aleksandra | Student | [@alexgrubor](http://github.com/alexgrubor) |
 | Marvin | Student | [@megravity](https://github.com/megravity)|
-| Ismail | Student | [@IsmailOuaiahou].(https://github.com/IsmailOuaiahou)
+| Ismail | Student | [@IsmailOuaiahou](https://github.com/IsmailOuaiahou)
 | Blagojche | Student | [@blagojce123](https://github.com/blagojce123)|
 | Setare | student | [@setazarm](https://github.com/setazarm)|
 | Darko | Student | [@DarkoIllieski](https://github.com/DarkoIllieski)|
