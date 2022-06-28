@@ -2,6 +2,8 @@
 
 | Name | Role | GitHub Username |
 |-----|----|--------|
+| Carlo | Teacher | [@carlotrimarchi](https://github.com/
+carlotrimarchi)|
 | Carlo | Teacher | [@carlotrimarchi](https://github.com/carlotrimarchi)|
 | Arber | noob | [@arbertotraku](https://github.com/ArberTotraku)|
 | Matteo | Teacher | [@mt-sette](https://github.com/mt-sette)|
@@ -12,3 +14,4 @@
 | Setare | student | [@setazarm](https://github.com/setazarm)|
 | Alexandr | Student | [@alexpavlyukovets](https://github.com/alexpavlyukovets) |
 | Ricardo | Student | [@riccaralv](https://github.com/riccaralv)|
+| Mohammed| Student | [@malshameri54](https://github.com/Mohammedalshameri/) |
