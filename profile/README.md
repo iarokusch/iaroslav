@@ -9,7 +9,7 @@
 | Arber | noob | [@arbertotraku](https://github.com/ArberTotraku)|
 | Delve | Student | [@delvetech1792](https://github.com/delvetech1792) |
 | Aleksandra | Student | [@alexgrubor](http://github.com/alexgrubor) |
-| Christiana | Student | [@christyjonah] (https://github.com/Christyjonah)
+| Christiana | Student | [@christyjonah](https://github.com/Christyjonah) |
 | Marvin | Student | [@megravity](https://github.com/megravity)|
 | Ismail | Student | [@IsmailOuaiahou](https://github.com/IsmailOuaiahou)
 | Blagojche | Student | [@blagojce123](https://github.com/blagojce123)|
@@ -24,3 +24,5 @@
 | Mauro | Student | [@maurofilippifarmar](https://github.com/maurofilippifarmar)|
 | Bindu |DCI-sudent |rbinduc|
 | iaroslav | student| @iarokusch| 
+| Bindu |DCI-sudent | [@rbinduc](https://github.com/rbinduc)|
+| Eman | Student | [@dolce-emmy](https://github.com/dolce-emmy/)|
