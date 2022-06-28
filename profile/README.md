@@ -2,6 +2,8 @@
 
 | Name | Role | GitHub Username |
 |-----|----|--------|
+| Carlo | Teacher | [@carlotrimarchi](https://github.com/
+carlotrimarchi)|
 | Carlo | Teacher | [@carlotrimarchi](https://github.com/carlotrimarchi)|
 | Miguel | Student | [@domikel](https://github.com/Domikel)|
 | Miguel John| Student | [@domikel](https://github.com/Domikel)|
@@ -12,6 +14,7 @@
 | Marvin | Student | [@megravity](https://github.com/megravity)|
 | Blagojche | Student | [@blagojce123](https://github.com/blagojce123)|
 | Setare | student | [@setazarm](https://github.com/setazarm)|
+| Darko | Student | [@DarkoIllieski](https://github.com/DarkoIllieski)|
 | Alexandr | Student | [@alexpavlyukovets](https://github.com/alexpavlyukovets) |
-
-
+| Ricardo | Student | [@riccaralv](https://github.com/riccaralv)|
+| Mohammed| Student | [@malshameri54](https://github.com/Mohammedalshameri/) |
