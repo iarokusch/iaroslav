@@ -3,7 +3,6 @@
 | Name | Role | GitHub Username |
 |-----|----|--------|
 | Carlo | Teacher | [@carlotrimarchi](https://github.com/carlotrimarchi)|
-| Carlo | Teacher | [@carlotrimarchi](https://github.com/carlotrimarchi)|
 | Miguel | Student | [@domikel](https://github.com/Domikel)|
 | Miguel John| Student | [@domikel](https://github.com/Domikel)|
 | Arber | noob | [@arbertotraku](https://github.com/ArberTotraku)|
@@ -19,4 +18,5 @@
 | Mohammed| Student | [@malshameri54](https://github.com/Mohammedalshameri/) |
 | Ludo  | Student | [@ludovil](https://github.com/Ludovil)|
 | Mauro | Student | [@maurofilippifarmar](https://github.com/maurofilippifarmar)|
+| Bindu |DCI-sudent |rbinduc|
 
