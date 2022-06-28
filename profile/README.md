@@ -12,3 +12,6 @@
 | Setare | student | [@setazarm](https://github.com/setazarm)|
 
 
+| Alexandr | Student | [@alexpavlyukovets](https://github.com/alexpavlyukovets) |
+
+
