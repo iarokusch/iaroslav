@@ -11,6 +11,10 @@ carlotrimarchi)|
 | Aleksandra | Student | [@alexgrubor](http://github.com/alexgrubor) |
 | Marvin | Student | [@megravity](https://github.com/megravity)|
 | Blagojche | Student | [@blagojce123](https://github.com/blagojce123)|
+| Setare | student | [@setazarm](https://github.com/setazarm)|
 | Mohammed| Student | [@malshameri54](https://github.com/Mohammedalshameri/.github) |
+
+
+
 
 
