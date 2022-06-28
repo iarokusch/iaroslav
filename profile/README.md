@@ -2,8 +2,7 @@
 
 | Name | Role | GitHub Username |
 |-----|----|--------|
-| Carlo | Teacher | [@carlotrimarchi](https://github.com/
-carlotrimarchi)|
+| Carlo | Teacher | [@carlotrimarchi](https://github.com/carlotrimarchi)|
 | Carlo | Teacher | [@carlotrimarchi](https://github.com/carlotrimarchi)|
 | Miguel | Student | [@domikel](https://github.com/Domikel)|
 | Miguel John| Student | [@domikel](https://github.com/Domikel)|
@@ -18,3 +17,6 @@ carlotrimarchi)|
 | Alexandr | Student | [@alexpavlyukovets](https://github.com/alexpavlyukovets) |
 | Ricardo | Student | [@riccaralv](https://github.com/riccaralv)|
 | Mohammed| Student | [@malshameri54](https://github.com/Mohammedalshameri/) |
+| Ludo  | Student | [@ludovil](https://github.com/Ludovil)|
+| Mauro | Student | [@maurofilippifarmar](https://github.com/maurofilippifarmar)|
+
