@@ -12,5 +12,4 @@
 | Setare | student | [@setazarm](https://github.com/setazarm)|
 | Darko | Student | [@DarkoIllieski](https://github.com/DarkoIllieski)|
 | Alexandr | Student | [@alexpavlyukovets](https://github.com/alexpavlyukovets) |
-
-
+| Ricardo | Student | [@riccaralv](https://github.com/riccaralv)|
