@@ -7,3 +7,4 @@
 | Delve | Student | [@delvetech1792](https://github.com/delvetech1792) |
 | Aleksandra | Student | [@alexgrubor](http://github.com/alexgrubor) |
 | Marvin | Student | [@megravity](https://github.com/megravity)|
+| Ismail | Student | [@IsmailOuaiahou](https://github.com/megravity)|
