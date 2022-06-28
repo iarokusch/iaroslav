@@ -4,7 +4,6 @@
 |-----|----|--------|
 | Carlo | Teacher | [@carlotrimarchi](https://github.com/carlotrimarchi)|
 | Miguel | Student | [@domikel](https://github.com/Domikel)|
-| Miguel John| Student | [@domikel](https://github.com/Domikel)|
 | Arber | noob | [@arbertotraku](https://github.com/ArberTotraku)|
 | Matteo | Teacher | [@mt-sette](https://github.com/mt-sette)|
 | Delve | Student | [@delvetech1792](https://github.com/delvetech1792) |
