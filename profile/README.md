@@ -10,8 +10,5 @@
 | Marvin | Student | [@megravity](https://github.com/megravity)|
 | Blagojche | Student | [@blagojce123](https://github.com/blagojce123)|
 | Setare | student | [@setazarm](https://github.com/setazarm)|
-
-
 | Alexandr | Student | [@alexpavlyukovets](https://github.com/alexpavlyukovets) |
-
-
+| Ricardo | Student | [@riccaralv](https://github.com/riccaralv)|
