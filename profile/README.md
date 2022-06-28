@@ -22,5 +22,5 @@
 | Mauro | Student | [@maurofilippifarmar](https://github.com/maurofilippifarmar)|
 | Ludo  | Student | [@ludovil](https://github.com/Ludovil)|
 | Mauro | Student | [@maurofilippifarmar](https://github.com/maurofilippifarmar)|
-| Bindu |DCI-sudent |rbinduc|
-| Eman | Student | [@dolce-emmy] (https://github.com/dolce-emmy/) 
+| Bindu |DCI-sudent | [@rbinduc](https://github.com/rbinduc)|
+| Eman | Student | [@dolce-emmy] (https://github.com/dolce-emmy/)|
