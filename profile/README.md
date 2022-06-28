@@ -18,5 +18,5 @@
 | Mohammed| Student | [@malshameri54](https://github.com/Mohammedalshameri/) |
 | Ludo  | Student | [@ludovil](https://github.com/Ludovil)|
 | Mauro | Student | [@maurofilippifarmar](https://github.com/maurofilippifarmar)|
-| Bindu |DCI-sudent |rbinduc|
+| Bindu |DCI-sudent | [@rbinduc](https://github.com/rbinduc)|
 
